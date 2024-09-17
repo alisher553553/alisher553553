@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Sher</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+### 🚀 **About Me**
+- 🎓 **Education:** Pursuing a Bachelor's degree in [Computer Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science.html).
+- 🌟 **Objective:** I am eager to start my career in software development, with a passion for coding, problem-solving, and creating high-quality software. I'm dedicated to making a meaningful impact in the tech world.
+- 💡 **Interests:** I am particularly interested in  **web Development**, **Security**, and **Mobile & Desktop Development**. My projects often revolve around these areas, where I continuously seek to expand my knowledge and
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisher553553&label=Profile%20views&color=0e75b6&style=flat" alt="alisher553553" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisher553553" alt="alisher553553" /></a> </p>
