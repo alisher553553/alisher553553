@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Web Programming**
 
-- 🌱 I’m currently learning **C++ , Html , Java ,JavaScript , Python , C**
+- 🌱 I’m currently learning ** , Html , Java ,JavaScript ,Css
 
 - 👯 I’m looking to collaborate on **on anything interesting**
 
